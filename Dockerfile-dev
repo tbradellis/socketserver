@@ -1,0 +1,4 @@
+FROM openjdk
+WORKDIR '/app'
+COPY './target/dockersocketserver-1.0-SNAPSHOT.jar' '/app'
+CMD ["java", "-cp", "dockersocketserver-1.0-SNAPSHOT.jar", "com.bellis.server.Server"]

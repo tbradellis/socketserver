@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-01-08T22:30:16.020012Z</date>
+  <millis>1546986616020</millis>
+  <nanos>12000</nanos>
+  <sequence>0</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:30:26.126694Z</date>
+  <millis>1546986626126</millis>
+  <nanos>694000</nanos>
+  <sequence>1</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:30:36.131078Z</date>
+  <millis>1546986636131</millis>
+  <nanos>78000</nanos>
+  <sequence>2</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:30:46.136977Z</date>
+  <millis>1546986646136</millis>
+  <nanos>977000</nanos>
+  <sequence>3</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:30:56.140984Z</date>
+  <millis>1546986656140</millis>
+  <nanos>984000</nanos>
+  <sequence>4</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:31:06.145442Z</date>
+  <millis>1546986666145</millis>
+  <nanos>442000</nanos>
+  <sequence>5</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:31:16.151182Z</date>
+  <millis>1546986676151</millis>
+  <nanos>182000</nanos>
+  <sequence>6</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+<record>
+  <date>2019-01-08T22:31:26.156924Z</date>
+  <millis>1546986686156</millis>
+  <nanos>924000</nanos>
+  <sequence>7</sequence>
+  <logger>DigitLog</logger>
+  <level>INFO</level>
+  <class>com.bellis.server.DigitLogService</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>New List Report: </message>
+  <param>[]</param>
+</record>
+</log>

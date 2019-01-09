@@ -1,0 +1,4 @@
+com/bellis/server/ServerConnectionHandler.class
+com/bellis/server/DigitLogService.class
+com/bellis/server/Server.class
+com/bellis/server/CollectorService.class
